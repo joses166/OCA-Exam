@@ -1,0 +1,2 @@
+javac TestClass.java
+java TestClass

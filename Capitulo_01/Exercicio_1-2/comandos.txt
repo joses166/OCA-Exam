@@ -1,0 +1,7 @@
+D:\OCA\Exercicio_1-2>javac -d bin src\com\ocajexam\tutorial\*.java src\com\ocajexam\tutorial\planets\*.java
+
+D:\OCA\Exercicio_1-2>java -cp bin com.ocajexam.tutorial.GreetingsUniverse
+Greetings, Universe!
+Hello from Earth
+Hello from Mars
+Hello from Venus
